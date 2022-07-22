@@ -26,7 +26,7 @@ emailCount=0
 linkedinCount=0
 callCount=0
 
-st.write("E =  Email ")
+st.write("📧 = Email, 📞 =  Call")
 for day in range(1, daysForecasted + 1):
 
     for i in range(0, day): #add everything up do the day
